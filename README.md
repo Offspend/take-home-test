@@ -26,6 +26,8 @@ We have recently signed a new partner BackMarket. This requires an update to our
 
 - [ ] Clone this repository (do **not** fork it)
 - [ ] Implement the required feature
+- [ ] Refactor the code to ensure that the produced code satisfies your standards of quality. 
+- [ ] Write unitary tests ensuring that all functionalities work as expected.
 - [ ] Publish it on GitHub
 - [ ] Send us the link and tell us approximatively how much time you spent on this assignment
 
